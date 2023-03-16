@@ -19,8 +19,8 @@ git add
 
 ```
 
-<img src="./screen1.png" alt="Alt text" title="screen1">
-<img src="./screen2.png" alt="Alt text" title="screen2">
-<img src="./screen3.png" alt="Alt text" title="screen1">
+<img src="https://github.com/MaramHabib/ITICMS/blob/main/screen1.PNG" alt="Alt text" title="screen1">
+<img src="https://github.com/MaramHabib/ITICMS/blob/main/screen2.PNG" alt="Alt text" title="screen2">
+<img src="https://github.com/MaramHabib/ITICMS/blob/main/screen3.PNG" alt="Alt text" title="screen1">
 
 
