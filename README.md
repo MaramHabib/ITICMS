@@ -18,3 +18,9 @@ git init
 git add
 
 ```
+
+<img src="./screen1.png" alt="Alt text" title="screen1">
+<img src="./screen2.png" alt="Alt text" title="screen2">
+<img src="./screen3.png" alt="Alt text" title="screen1">
+
+
